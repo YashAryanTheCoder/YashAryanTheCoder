@@ -43,6 +43,13 @@ ___
 <img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&show_icons=true" alt="my github stats" width="440"/>&nbsp;
 </p>
 
+## HackerRank Badges
+
+![Python](https://github.com/YashAryanTheCoder/Badges/blob/main/python_5_star.png)
+![SQL](https://github.com/YashAryanTheCoder/Badges/blob/main/sql_5_star.png)
+![10 Days of JavaScript](https://github.com/YashAryanTheCoder/Badges/blob/main/10_days_of_javascript_5_star.png)
+![10 Days of Statistics](https://github.com/YashAryanTheCoder/Badges/blob/main/10_days_of_statistics_5_star.png)
+![30 Days of Code](https://github.com/YashAryanTheCoder/Badges/blob/main/30_days_of_code_5_star.png)
 
 ## HackerRank Certificates
 
@@ -54,6 +61,8 @@ ___
 <img src="https://github.com/YashAryanTheCoder/Badges/blob/main/react_basic_skill.png" alt="React (Basic) Certificate"/>
 <img src="https://github.com/YashAryanTheCoder/Badges/blob/main/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
 <img src="https://github.com/YashAryanTheCoder/Badges/blob/main/sql_intermediate_skill.png" alt="SQL (Intermediate) Certificate"/>
+
+
 
 
 ## 😂 Here is a random joke that'll make you laugh!
