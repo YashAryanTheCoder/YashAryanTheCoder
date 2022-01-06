@@ -46,8 +46,7 @@ ___
 
 ## HackerRank Certificates
 
-<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>&nbsp;
-<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/node_basic_skill.png" alt="Node (Basic) Certificate"/>
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/node_basic_skill.png" alt="Node (Basic) Certificate"/>&nbsp;
 <img src="https://github.com/YashAryanTheCoder/Badges/blob/main/java_basic_skill.png" alt="Java (Basic) Certificate"/>
 <img src="https://github.com/YashAryanTheCoder/Badges/blob/main/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
 <img src="https://github.com/YashAryanTheCoder/Badges/blob/main/python_basic_skill.png" alt="Python (Basic) Certificate"/>
