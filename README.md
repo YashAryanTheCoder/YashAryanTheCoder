@@ -39,8 +39,8 @@ ___
 
 <h2 align="center">Github Statistics</h2>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&theme=blue-green" alt="my github stats" width="440"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&show_icons=true" alt="my github stats" width="440"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&theme=blue-green" alt="my github stats" width="400"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&show_icons=true" alt="my github stats" width="400"/>&nbsp;
 </p>
 
 ## HackerRank Badges
