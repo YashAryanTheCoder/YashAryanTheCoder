@@ -44,6 +44,18 @@ ___
 </p>
 
 
+## HackerRank Certificates
+
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>&nbsp;
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/node_basic_skill.png" alt="Node (Basic) Certificate"/>
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/java_basic_skill.png" alt="Java (Basic) Certificate"/>
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/rest_api_intermediate_skill.png" alt="Rest API (Intermediate) Certificate"/>
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/react_basic_skill.png" alt="React (Basic) Certificate"/>
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
+<img src="https://github.com/YashAryanTheCoder/Badges/blob/main/sql_intermediate_skill.png" alt="SQL (Intermediate) Certificate"/>
+
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)  
