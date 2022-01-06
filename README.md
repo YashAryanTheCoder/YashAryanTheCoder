@@ -2,7 +2,7 @@
 
 ---
 <div align="center">
-<h3 style="font-size: 1.5em;">Hey, I'm </span> <span style="font-family:Papyrus;color:red;font-size: 1.5em;"><b>YASH ARYAN</b></h3>.</div>
+<h3 style="font-size: 1.5em;">Hi, I'm </span> <span style="font-family:Papyrus;color:red;font-size: 1.5em;"><b>YASH ARYAN</b><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h3>.</div>
 
 ___
 
@@ -41,11 +41,20 @@ ___
 <h2 align="center">Github Statistics</h2>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&theme=blue-green" alt="my github stats" width="440"/>&nbsp;
-![](https://komarev.com/ghpvc/?username=YashAryanTheCoder)
+<img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&show_icons=true" alt="my github stats" width="440"/>&nbsp;
 </p>
 
 
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)  
 
+
+
+
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=YashAryanTheCoder)&nbsp; 
+[![GitHub followers](https://img.shields.io/github/followers/YashAryanTheCoder?style=social)](https://github.com/YashAryanTheCoder)
 
 
