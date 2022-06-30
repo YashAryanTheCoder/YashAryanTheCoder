@@ -4,7 +4,7 @@
 <h3 style="font-size: 1.5em;">Hi, I'm </span> <span style="font-family:Papyrus;color:red;font-size: 1.5em;"><b>YASH ARYAN</b><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h3>.</div>
 
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Currently</h2>  
+## 🛠 Currently  
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨‍💻 I'm <span style="color:blue;"><b>Expert</b></span> on CodeForces
