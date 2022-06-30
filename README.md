@@ -1,7 +1,7 @@
 ![Yash Aryan](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yash%20Aryan&fontSize=60&&fontAlignY=35)
 
-<div align="center">
-<h3 style="font-size: 1.5em;">Hi, I'm </span> <span style="font-family:Papyrus;color:red;font-size: 1.5em;"><b>YASH ARYAN</b><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h3>.</div>
+<!--<div align="center">
+<h3 style="font-size: 1.5em;">Hi, I'm </span> <span style="font-family:Papyrus;color:red;font-size: 1.5em;"><b>YASH ARYAN</b><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h3>.</div>-->
 
 
 ## 🛠 Currently  
