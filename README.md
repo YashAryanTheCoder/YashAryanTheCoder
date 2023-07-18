@@ -36,15 +36,15 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
+<!--
 <h2 align="center">Github Statistics</h2>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&theme=blue-green" alt="my github stats" width="400"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&theme=chartreuse-dark" alt="my github stats" width="400"/>&nbsp;
-<!---<img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&show_icons=true" alt="my github stats" width="400"/>&nbsp;--->
+<img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&theme=chartreuse-dark" alt="my github stats" width="400"/>&nbsp;-->
+<!---<img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&show_icons=true" alt="my github stats" width="400"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&theme=radical" alt="my github stats" width="400"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=YashAryanTheCoder&theme=midnight-purple" alt="my github stats" width="400"/>&nbsp;
-</p>
+</p> -->
 
 ## HackerRank Badges
 
